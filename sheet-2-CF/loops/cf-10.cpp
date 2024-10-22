@@ -15,7 +15,7 @@ int main(){
             }
         }
             if(check==0){
-                cout<<i<<endl;
+                cout<<i<<" ";
                
             }
        
